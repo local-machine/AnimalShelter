@@ -17,6 +17,8 @@ The animal shelter has many dogs and cats they need to have on record and have t
 - EntityFrameworkCore
 - MySQL
 - MySQLWorkBench
+- MySqlConnector
+- Razor
 - Swagger with Swashbuckle
 
 ## Installation
